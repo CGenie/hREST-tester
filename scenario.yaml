@@ -1,0 +1,4 @@
+method: GET
+url: http://www.wp.pl
+parameters:
+    x: aq
